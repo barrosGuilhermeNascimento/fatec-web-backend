@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFatecWeb", "ApiFatecWeb\ApiFatecWeb.csproj", "{8BB43B01-665E-40A2-B3D7-8B99D38FABBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiFatecWeb.Core", "ApiFatecWeb.Core\ApiFatecWeb.Core.csproj", "{F4526C62-97DD-45E4-AC21-BAD6AB9C6644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB43B01-665E-40A2-B3D7-8B99D38FABBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB43B01-665E-40A2-B3D7-8B99D38FABBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB43B01-665E-40A2-B3D7-8B99D38FABBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB43B01-665E-40A2-B3D7-8B99D38FABBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4526C62-97DD-45E4-AC21-BAD6AB9C6644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4526C62-97DD-45E4-AC21-BAD6AB9C6644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4526C62-97DD-45E4-AC21-BAD6AB9C6644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4526C62-97DD-45E4-AC21-BAD6AB9C6644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D218C737-B557-4C02-9745-B50E271C2948}
+	EndGlobalSection
+EndGlobal
